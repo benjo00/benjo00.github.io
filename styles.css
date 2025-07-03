@@ -1,3 +1,5 @@
 .name {
     font-size: x-large;
+    display: flexbox;
+    align-items: center;
 }
