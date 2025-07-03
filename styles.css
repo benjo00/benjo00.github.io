@@ -2,4 +2,5 @@
     font-size: x-large;
     display: flexbox;
     align-items: center;
+    flex-direction: column;
 }
